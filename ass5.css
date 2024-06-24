@@ -1,0 +1,45 @@
+.img{
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    background-position:center;
+    height: 600px;
+    background-repeat:no-repeat;
+    background-size:contain;
+
+}
+.head{
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+
+}
+.head2
+{
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-size: small;
+
+
+}
+.para
+{
+    padding: 10px;
+    font-size: xx-small;
+    text-align: center;
+    color:lightslategray
+}
+.list
+{
+    
+    text-align: center;
+    font-size: 6px;
+    color: lightgray;
+}
+
+    
+.para2{
+    text-decoration: underline;
+    text-align: center;
+    font-size:8px ;
+    color: red;
+}
